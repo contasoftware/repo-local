@@ -99,4 +99,4 @@ while True:
             usuario_logado = None
 
         else:
-            print("Opção inválida.")
+            print("Desculpa, Opção inválida.")
